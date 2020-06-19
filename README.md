@@ -1,4 +1,9 @@
-# autoinc
+# autoinc (DEPRECATED!!!)
+
+GitHub Action now has `GITHUB_RUN_ID` AND `GITHUB_RUN_NUMBER`: 
+https://help.github.com/en/actions/configuring-and-managing-workflows/using-environment-variables
+
+---
 
 This is a small "REST API" to generate auto increment numbers, because GitHub Actions can't do that.
 
